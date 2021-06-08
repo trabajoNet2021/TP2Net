@@ -1,0 +1,10 @@
+C:\Net\UI.Desktop\Data.Database\bin\Debug\Data.Database.exe.config
+C:\Net\UI.Desktop\Data.Database\bin\Debug\Data.Database.exe
+C:\Net\UI.Desktop\Data.Database\bin\Debug\Data.Database.pdb
+C:\Net\UI.Desktop\Data.Database\bin\Debug\Business.Entities.dll
+C:\Net\UI.Desktop\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Net\UI.Desktop\Data.Database\obj\Debug\Data.Database.csproj.CoreCompileInputs.cache
+C:\Net\UI.Desktop\Data.Database\obj\Debug\Data.Database.csproj.CopyComplete
+C:\Net\UI.Desktop\Data.Database\obj\Debug\Data.Database.exe
+C:\Net\UI.Desktop\Data.Database\obj\Debug\Data.Database.pdb
+C:\Net\UI.Desktop\Data.Database\obj\Debug\Data.Database.csproj.AssemblyReference.cache

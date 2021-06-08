@@ -1,0 +1,5 @@
+C:\Net\UI.Desktop\Util\bin\Debug\Util.dll
+C:\Net\UI.Desktop\Util\bin\Debug\Util.pdb
+C:\Net\UI.Desktop\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+C:\Net\UI.Desktop\Util\obj\Debug\Util.dll
+C:\Net\UI.Desktop\Util\obj\Debug\Util.pdb

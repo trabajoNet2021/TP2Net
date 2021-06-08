@@ -1,0 +1,6 @@
+C:\Net\UI.Desktop\Business.Entities\obj\Debug\Business.Entities.csproj.CoreCompileInputs.cache
+C:\Net\UI.Desktop\Business.Entities\bin\Debug\Business.Entities.dll
+C:\Net\UI.Desktop\Business.Entities\bin\Debug\Business.Entities.pdb
+C:\Net\UI.Desktop\Business.Entities\obj\Debug\Business.Entities.dll
+C:\Net\UI.Desktop\Business.Entities\obj\Debug\Business.Entities.pdb
+C:\Net\UI.Desktop\Business.Entities\obj\Debug\Business.Entities.csproj.AssemblyReference.cache
