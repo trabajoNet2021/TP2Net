@@ -68,11 +68,11 @@ namespace UI.Desktop
         public void Listar()
         {
             AlumnoInscripcionLogic al = new AlumnoInscripcionLogic();
-            this.dgvAlumnos.DataSource = al.GetAll();
+            this.dgvAlumnos.DataSource = al.GetAlumnosPersonas();
             this.dgvAlumnos.Columns[1].HeaderText = "Id de alumno";
             this.dgvAlumnos.Columns[2].HeaderText = "Id de curso";
-            this.dgvAlumnos.Columns[4].HeaderText = "Id de inscripción";
-            this.dgvAlumnos.Columns[5].Visible = false;
+            this.dgvAlumnos.Columns[6].Visible = false;
+            this.dgvAlumnos.Columns[7].Visible = false;
         }
 
         #endregion

@@ -1,7 +1,6 @@
 ﻿using System;
 using Business.Logic;
 using Business.Entities;
-using Util;
 
 namespace UI.Web
 {
@@ -35,29 +34,19 @@ namespace UI.Web
 
         protected void btnIngresar_Click(object sender, EventArgs e)
         {
-            try
-            {
-                Persona per;
-                per = Existe(this.usuarioTextBox.Text, this.claveTextBox.Text);
+            Persona per;
+            per = Existe(this.usuarioTextBox.Text, this.claveTextBox.Text);
 
-                if (per != null)
-                {
-                    Session["persona"] = per;
-                    Response.Redirect("/PaginaPrincipal.aspx");
-                }
+            if(per != null)
+            {
+                Session["persona"] = per;
+                Response.Redirect("/PaginaPrincipal.aspx");
             }
 
-            catch (Exception ex)
-            {
-                Logger.WriteLog(ex.ToString());
-                Response.Write(ex.Message);
-            }
-
-            /*
             else
             {
                 lblIngresoIncorrecto.Visible = true;
-            }*/
+            }
         }
     }
 }
